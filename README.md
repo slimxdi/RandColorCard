@@ -1,2 +1,0 @@
-# RandColorCard
-Created with CodeSandbox
